@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 
 - 🔭 &nbsp; I’m currently learning Kotlin Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Back-end developer.
+- 💼 &nbsp; back end developer with front end knowledge.
 - ✍️ &nbsp; Watching Anime.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Kotlin  
-- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Java | Kotlin | JavaScript
+- 🌐 &nbsp; HTML | CSS | Angular | Bootstrap 
 - 🛢 &nbsp; MySQL | Postgres | Xampp
-- 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git | Intelij
+- 🔧 &nbsp; Visual Studio code | Eclipse | Intelij | Git
 
 <br>
 
