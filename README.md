@@ -11,9 +11,7 @@
 
 - 🔭 &nbsp; I’m currently learning Kotlin Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; back end developer with front end knowledge.
-- ✍️ &nbsp; Watching Anime.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ✍️ &nbsp; I like to watch anime.
 
 <h3>🛠 Tech Stack</h3>
 
